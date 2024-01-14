@@ -1,0 +1,5 @@
+*.log
+*.pot
+*.pyc
+__pycache__/ (there are two underscores at the start and end on this one)
+db.sqlite3
